@@ -1,0 +1,17 @@
+{
+	"name": "linea-io",
+	"main": "linea.css",
+	"version": "1.0.0",
+	"homepage": "https://github.com/alejomejia/linea-iconset",
+	"authors": [
+	"Dario Ferrando <http://dario.io>"
+	],
+	"description": "Linea Iconset is a free outline iconset featuring 730+ icons",
+	"license": "CC BY 4.0",
+	"ignore": [
+	"**/.*",
+	"node_modules",
+	".gitignore",
+	"bower_components"
+	]
+}
